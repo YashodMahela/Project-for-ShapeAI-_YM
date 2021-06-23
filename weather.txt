@@ -1,0 +1,10 @@
+
+-------------------------------------------------------------
+
+Weather Stats for - COLOMBO  || 23 Jun 2021 | 02:20:05 PM
+-------------------------------------------------------------
+
+Current temperature is: 30.97 deg C
+Current weather desc  :few clouds
+Current Humidity      :72%
+Current wind speed    :5.16kmph
